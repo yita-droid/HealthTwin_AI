@@ -119,7 +119,7 @@ Health Twin AI provides an AI-assisted triage system that integrates physiologic
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
-
+```
 ---
 
 ## FutureScope
